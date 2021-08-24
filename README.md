@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
+<!-- ####  - ⚡ Fun fact: 
+   - I love to write about stuff. See my [Blog](https://dcnblog.hashnode.dev/)
 <!--
 **Celnet-hub/Celnet-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
