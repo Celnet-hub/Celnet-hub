@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+#### ⚡ Fun fact: 
+ - I love to write about stuff. See my [Blog](https://dcnblog.hashnode.dev/)
+ - 🔭 I’m currently working on some Devops project. To upskill in that space.
+ - I love Python.
 <!-- ####  - ⚡ Fun fact: 
    - I love to write about stuff. See my [Blog](https://dcnblog.hashnode.dev/)
 <!--
