@@ -1,21 +1,34 @@
-## Hi there 👋
-#### ⚡ Fun fact: 
- - I love to write about stuff. See my [Blog](https://dcnblog.hashnode.dev/)
- - 🔭 I’m currently working on some Devops project. To upskill in that space.
- - I love Python.
-<!-- ####  - ⚡ Fun fact: 
-   - I love to write about stuff. See my [Blog](https://dcnblog.hashnode.dev/)
-<!--
-**Celnet-hub/Celnet-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hi there! 👋 I'm Chidubem Celestine Nwabuisi (a.k.a DCN)</b></h1>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a technology-driven developer with over 5 years of experience in the telecommunications industry, specializing in designing and supporting enterprise applications that streamline tasks and optimize business processes. Passionate Data, DevOps and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- Working on **OutBound AI** with **HNG 12**
+- Developing **Property Management Software** using **Next.js (React), JavaScript, and Tailwind CSS**
+- Exploring **Differential Privacy in LLM API Interactions** as part of my **MSc Cybersecurity Technology** research.
+
+## 🌱 Currently Learning
+- **Data Engineering** with **ALT School Africa**
+- Advanced **Cloud Security & Encryption**
+- **AWS Certified Developer – Associate** (In Progress)
+- **CompTIA Security+** (In Progress)
+
+## 👯 Looking to Collaborate On
+- **Python** and **AI** projects
+- **DevOps & Cloud Infrastructure**
+
+## 🛠️ Technical Skills
+- **Programming/Scripting:** Python (Django, FastAPI), PHP (Laravel), JavaScript, Salesforce Apex, Bash Script
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, GitHub Actions
+- **Databases:** MSSQL, PostgreSQL, MongoDB, GraphQL
+- **Networking & Security:** Cisco, Juniper, VAPT
+
+## 📫 How to Reach Me
+- **LinkedIn:** [Dubemn](https://www.linkedin.com/in/dubemn/)
+- **Blog:** [Tech Thoughts](https://dcnblog.hashnode.dev/)
+- **Email:** dubemnwabuisi@gmail.com
+
+## ⚡ Fun Fact
+- I love thinking about ideas
+- I look forward to building a **language model specifically for Nigerian languages!** 🌍🤖
