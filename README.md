@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there! 👋 I'm Chidubem Celestine Nwabuisi (a.k.a DCN)</b></h1>
 
 ## 🚀 About Me
-I'm a technology-driven developer with over 5 years of experience in the telecommunications industry, specializing in designing and supporting enterprise applications that streamline tasks and optimize business processes. Passionate Data, DevOps and AI.
+I'm a technology-driven developer with over 5 years of experience in the [telecommunications industry](https://mainone.net/) , specializing in designing and supporting enterprise applications that streamline tasks and optimize business processes. Passionate Data, DevOps and AI.
 
 ## 🔭 Current Projects
 - Working on **OutBound AI** with **HNG 12**
