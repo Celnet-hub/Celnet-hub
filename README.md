@@ -25,8 +25,6 @@ I'm a technology-driven developer with over 5 years of experience in the telecom
 - **Networking & Security:** Cisco, Juniper, VAPT
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Dubemn](https://www.linkedin.com/in/dubemn/)
-- **Blog:** [Tech Thoughts](https://dcnblog.hashnode.dev/)
 - **Email:** dubemnwabuisi@gmail.com
 
 ## ⚡ Fun Fact
