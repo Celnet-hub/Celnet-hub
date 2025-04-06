@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a technology-driven software engineer with **5+ years of industry experience**, primarily in the [telecommunications sector](https://mainone.net/). I specialize in designing, developing, and securing scalable systems that solve real-world problems. I bring a unique blend of expertise in **DevOps**, **Cloud Architecture**, **Cybersecurity**, and **AI**.
+I'm a technology-driven software engineer with **5+ years of industry experience**, primarily in the [telecommunications sector](https://mainone.net/). I specialize in designing, developing, and securing scalable systems that solve real-world problems. I bring a unique blend of expertise in **Software Development**, **DevOps**, **Cloud Computing**, **Cybersecurity**, and **AI**.
 
 Currently pursuing an MSc in **Cybersecurity Technology**, with a research focus on **Differential Privacy in LLM API Interactions**.
 
@@ -26,7 +26,7 @@ Currently pursuing an MSc in **Cybersecurity Technology**, with a research focus
 - 🤖 Building **OutBound AI** in collaboration with **HNG 12**
 - 🏘 Developing a **Property Management Platform** using **Next.js, Tailwind CSS, FastAPI, and Firebase**
 - 🔐 Academic research: _Evaluating the Effectiveness of Differential Privacy in LLM API Interactions_
-- 🛡 Open-source contributor to DevSecOps & Cloud infrastructure automation projects
+- 🛡 Open-source contributor to & Cloud infrastructure automation projects
 
 ---
 
@@ -61,9 +61,6 @@ Currently pursuing an MSc in **Cybersecurity Technology**, with a research focus
 
 **Security & Networking**  
 - VAPT, Secure SDLC, Cisco & Juniper Configurations, IAM & Access Control, Secrets Management
-
-**Tooling**  
-- VSCode, JIRA, Postman, Figma, Prometheus, Grafana, CloudWatch, Datadog
 
 ---
 
